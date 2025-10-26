@@ -1,0 +1,5 @@
+loginn pagge
+accept usrname&password
+session store
+redirect wlc pagge
+logout
